@@ -1,6 +1,6 @@
 #include <iostream>
 
-#Fib  
+
 int nthfib(int n){
     if (n == 0){
       return 0;
