@@ -16,3 +16,9 @@ You can do so here: https://processing.org/download/
 $ cd project
 $ processing SA.pde
 ```
+
+## CPP
+```
+$ g++ hello.cpp
+$ ./a.out
+```
